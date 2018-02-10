@@ -3,8 +3,8 @@
 ## Compiz macOS Sierraテーマ
 
 ![screen shot](https://user-images.githubusercontent.com/20021695/36060727-9c1ad6f6-0e92-11e8-8507-03c816741493.png "screen shot")
-This is a macOS theme for Compiz Emerald.
-これはCompizとEmeraldを導入しているLinuxデスクトップ環境用のmacOS Sierraのテーマです。
+This is a macOS theme for Compiz Emerald.  
+これはCompizとEmeraldを導入しているLinuxデスクトップ環境用のmacOS Sierraのテーマです。  
 
 ### How to install
 
